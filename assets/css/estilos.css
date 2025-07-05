@@ -12,7 +12,7 @@ body {
 
 }
 
-/* Mis trabajos */
+/* Mis Recetas*/
 
 #mis-recetas .image-top {
   height: 250px;
@@ -26,15 +26,4 @@ h5{
   text-align: right
 }
 
-/* Contacto */
 
-#Contacto form label {
-  font-weight: 700;
-  color: #373a3c;
-}
-
-@media (max-width: 768px) {
-  #Contacto form label {
-    font-weight: 400;
-  }
-}
