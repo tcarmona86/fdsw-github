@@ -21,6 +21,11 @@ body {
   background-position: center;
 }
 
+h5{
+  color: rgb(197, 15, 54);
+  text-align: right
+}
+
 /* Contacto */
 
 #Contacto form label {
